@@ -450,6 +450,7 @@ Or you can send an issue for me.
 - https://github.com/0xsanny/solsec [Solana smart contract security]
 - https://github.com/crytic [Blockchain Security, by @trailofbits]
 - https://github.com/Quillhash/Solidity-Attack-Vectors [Solidity SmartContract Attack Vectors]
+- https://github.com/Quillhash/DeFi-Attack-Vectors [Common DeFi threat and attack vectors list]
 - https://github.com/crytic/building-secure-contracts [Guidelines and training material to write secure smart contracts]
 - https://github.com/crytic/etheno [Ethereum security analysis and testing]
 - https://github.com/crytic/echidna [Ethereum smart contract fuzzer]
