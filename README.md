@@ -34,6 +34,10 @@ Or you can send an issue for me.
   - https://www.vulnmachines.com/ [Vulnmachines]
   - https://www.web3pwn.com/ [Web3Pwn]
 
+- **Testnets / Faucets**
+  - https://sepolia.dev/ [Sepolia Resources]
+  - https://faucet.circle.com/ [Circle Faucet (Sepolia USDC)]
+
 - **Mindmaps**
   - https://www.xmind.net/m/2zbPP7/ [Common Vulnerabilities MindMap]
   - https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor [Auditor MindMap]
@@ -319,6 +323,7 @@ Or you can send an issue for me.
 - https://github.com/swiss-knife-xyz/swiss-knife [All your EVM tools in one place]
 - https://github.com/EIPTools/eip-tools [Explore all EIPs, ERCs, RIPs and CAIPs easily]
 - https://github.com/a16z/halmos [A symbolic testing tool for EVM]
+- https://github.com/0xRajkumar/revm [REVM]
 - https://github.com/fukaoi/smart-token-tool [SPL Token/ NFT issue tool on solana]
 - https://github.com/cryptoloutre/solana-tools [A bunch of tools to help people in the Solana ecosystem]
 - https://github.com/costa-group/EthIR [A framework for high-level Analysis of Ethereum Bytecode]
@@ -337,6 +342,7 @@ Or you can send an issue for me.
 - https://github.com/0xNineteen/solana-arbitrage-bot [solana arbitrage bot across multiple spot dexs]
 - https://github.com/D4Vinci/Scrapling [Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python]
 - https://github.com/bengabp/dexscreener [Reverse engineering dexscreener avro encryption to fit my web scraping needs]
+- https://github.com/puppeteer/puppeteer [Puppeteer]
 - https://github.com/otter-sec/bn-ebpf-solana [Binary Ninja plugin for Solana eBPF]
 - https://github.com/deanmlittle/ezbpf [A simple sBPF (Solana eBPF) disassembler]
 - https://github.com/franck44/evm-dis [An EVM bytecode disassembler/assembler]
@@ -415,6 +421,7 @@ Or you can send an issue for me.
 - https://github.com/thirdweb-dev/contracts [ERC]
 - https://github.com/proofofplay/piratenation-contracts [The Pirate Nation game]
 - https://github.com/tornadocash [Tornado Cash]
+- https://github.com/tornadocash/tornado-core [Tornado Cash Core]
 - https://github.com/nkrishang/tornado-cash-rebuilt [Tornado Cash rebuilt]
 - https://github.com/luvnft/Memecoin-BASE [MEME]
 - https://github.com/ITExpert0228/Meme_project [MEME]
@@ -460,7 +467,9 @@ Or you can send an issue for me.
 - https://github.com/secureum/DeFi-Security-Summit-Stanford [DEFI Focus Smart Contract Security Capture the Flag]
 - https://github.com/go-outside-labs/blockchain-hacking [hacking]
 - https://github.com/Decurity/abi-decompiler [Recover ABI of EVM smart contracts]
+- https://github.com/pcaversaccio/white-hat-frontrunning [White-hat Frontrunning Scripts]
 - https://github.com/pcaversaccio/reentrancy-attacks [Historical Collection of Reentrancy Attacks]
+- https://gitlab.com/learn-web31/Permit-Phishing [Permit Phishing Demo]
 - https://github.com/crytic/slither [Static Analyzer]
 - https://mythx.io [Static Analyzer]
 - https://github.com/ConsenSys/mythril [Static Analyzer]
@@ -483,4 +492,5 @@ Or you can send an issue for me.
 ### MEV
 - https://github.com/flashbots [for ethereum]
 - https://github.com/jito-foundation/jito-solana [for solana]
+- https://cow.fi/mev-blocker#rpc [MEV Blocker RPC]
 
