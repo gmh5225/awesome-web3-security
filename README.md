@@ -71,6 +71,7 @@ Or you can send an issue for me.
   - https://r.xyz/ [Remedy]
   - https://hunt.r.xyz/ [Remedy Hunt]
   - https://www.vigilseek.com/bug-bounty [Vigilseek (Bug Bounty Aggregator)]
+  - https://cantina.xyz/ [Cantina]
 
 - **Newsletters / Collections**
   - https://newsletter.blockthreat.io/ [BlockThreat]
@@ -247,12 +248,16 @@ Or you can send an issue for me.
 - https://github.com/MetaMask [MetaMask]
 - https://github.com/MetaMask/solana-wallet-standard [MetaMask Solana Wallet Standard]
 - https://github.com/MetaMask/snap-bitcoin-wallet [MetaMask Bitcoin Snap Wallet]
+- https://github.com/MetaMask/metamask-extension [MetaMask Extension]
+- https://github.com/MetaMask/metamask-mobile [MetaMask Mobile]
+- https://github.com/MetaMask/metamask-desktop [MetaMask Desktop]
 - https://github.com/ethereum/wallet-poc [The web3 wallet that makes crypto self-custody easy and secure via hybrid account abstraction. EIP-7702 ready]
 - https://github.com/coinbase/smart-wallet [ ERC-4337 compliant smart contract wallet from Coinbase]
 - https://github.com/samui-build/samui-wallet [Open Source wallet and toolbox for Solana builders]
 - https://github.com/ApeWorX/Ruffsack [A rugged multisig wallet for everyday adventures]
 - https://github.com/0xcregis/anychain [Multi-chain Rust wallet SDK]
 - https://github.com/coming-chat/wallet-SDK [Multi-chain Wallet SDK]
+- https://github.com/near/wallet-selector [NEAR Wallet Selector]
 
 ### MPC
 - https://github.com/coinbase/cb-mpc [Coinbase MPC Library]
@@ -351,6 +356,7 @@ Or you can send an issue for me.
 - https://github.com/anza-xyz/jetstreamer [A Solana project geared towards realtime indexing, research, and backfilling with support for all epochs in the history of Solana mainnet]
 - https://github.com/MetaMask/eth-phishing-detect [Utility for detecting phishing domains targeting Web3 users]
 - https://github.com/ponder-sh/ponder [Ponder]
+- https://github.com/better-auth/better-auth [Better Auth]
 
 ### Compilers
 - https://github.com/ethereum/solidity [Solidity]
