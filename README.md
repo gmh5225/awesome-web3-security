@@ -1,6 +1,9 @@
 
 
 # `awesome-web3-security`
+
+[![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-web3-security)](https://github.com/gmh5225/awesome-web3-security/blob/main/LICENSE)
+
 ```
 If you find that some links are not working, you can simply replace the username with gmh5225. 
 Or you can send an issue for me.
