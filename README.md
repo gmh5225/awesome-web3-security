@@ -135,6 +135,7 @@ Or you can send an issue for me.
 - https://blog.wssh.trade/posts/uniswap-v3 [Uniswap V3 CN Guide]
 - https://github.com/bekatom/awesome-ethereum [ETH Guide]
 - https://github.com/InfectedIsm/solana-quick-start-guide [Solana quick start guide]
+- https://github.com/GuiBibeau/solana-dev-skill [solana skill]
 - https://github.com/crytic/awesome-ethereum-security [awesome ethereum security]
 - https://github.com/ArjunaSec/Awesome-Solana-checklist [awesome solana security]
 - https://github.com/sigp/solidity-security-blog [Solidity security]
@@ -190,7 +191,8 @@ Or you can send an issue for me.
 - https://github.com/Ackee-Blockchain/awesome-wake-tests [Awesome Wake tests]
 - https://github.com/Ackee-Blockchain/reentrancy-examples [Reentrancy vulnerabilities]
 
-## AI Agents
+## AI
+### Agents
 - https://github.com/microsoft/ai-agents-for-beginners [AI Agents for beginners]
 - https://github.com/openai/openai-agents-js [openai agent workflows and agents]
 - https://github.com/openai/openai-agents-python [openai agent workflows and agents]
@@ -210,13 +212,14 @@ Or you can send an issue for me.
 - https://github.com/0xgasless/agentkit [AgentKit is a toolkit that gives AI agents access to crypto wallets and onchain functionality]
 - https://github.com/Ido-Levi/Hephaestus [Semi-Structured Agentic Framework. Workflows build themselves as agents discover what needs to be done, not what you predicted upfront]
 
-## MCP Servers
+### MCP Servers
 - https://github.com/PraneshASP/foundry-mcp-server [foundry mcp]
 
-## 3D Graphics
+## 3D / Games
+### 3D Graphics
 - https://github.com/mrdoob/three.js [JavaScript 3D Library]
 
-## Game
+### Games
 - https://github.com/aakarkun/unity-web3-skyrim-market [Web3 SkyRim Market - Unity]
 - https://github.com/0xFableOrg/0xFable [Trading card game]
 - https://github.com/adrianhajdin/project_web3_battle_game [Web3 NFT Card Game]
@@ -230,27 +233,26 @@ Or you can send an issue for me.
 - https://github.com/nhuxhr/sol-connect-four [Connect Four game built on the Solana blockchain]
 - https://github.com/matthewegyed/BlockchainGambit [A minimalistic chess game on the blockchain using Solidity and Foundry]
 
-## Wallet Source Code
+## Wallet
+### Source Code
 - https://github.com/MetaMask [MetaMask]
 - https://github.com/ethereum/wallet-poc [The web3 wallet that makes crypto self-custody easy and secure via hybrid account abstraction. EIP-7702 ready]
 - https://github.com/coinbase/smart-wallet [ ERC-4337 compliant smart contract wallet from Coinbase]
 - https://github.com/samui-build/samui-wallet [Open Source wallet and toolbox for Solana builders]
 - https://github.com/ApeWorX/Ruffsack [A rugged multisig wallet for everyday adventures]
 
-## SKILL.md
-- https://github.com/GuiBibeau/solana-dev-skill [solana skill]
-
-## Wallet MPC
+### MPC
 - https://github.com/coinbase/cb-mpc [Coinbase MPC Library]
 - https://github.com/bnb-chain/tss-lib [Threshold Signature Scheme, for ECDSA and EDDSA]
 - https://github.com/vultisig/mobile-tss-lib [Threshold Signature Scheme on mobile]
 - https://github.com/taurushq-io/multi-party-sig [Implementation of protocols for threshold signatures]
 
-## Wallet Connection
+### Connection
 - https://github.com/reown-com/appkit [web]
 - https://github.com/rainbow-me/rainbowkit [web]
 
-## Smart Contract Template
+## Development
+### Smart Contract Templates
 - https://github.com/mattstam/solidity-template [Solidity Template]
 - https://github.com/gmh5225/foundry-template [Foundry Template]
 - https://github.com/Uniswap/foundry-template [Foundry Template]
@@ -266,7 +268,7 @@ Or you can send an issue for me.
 - https://github.com/aadeexyz/erc-8004 [ERC-8004: Trustless Agents]
 - https://github.com/ChaosChain/trustless-agents-erc-ri [ERC-8004: Trustless Agents]
 
-## SDK
+### SDK
 - https://github.com/Ankr-network/game-unreal-sdk [Mirage Unreal SDK]
 - https://github.com/magicblock-labs/Solana.Unity-SDK [Unity-Solana SDK]
 - https://github.com/Virus-Axel/godot-solana-sdk [Godot Solana SDK]
@@ -280,7 +282,7 @@ Or you can send an issue for me.
 - https://github.com/hoprnet/gnosis-hosted [self-host Gnosis Safe]
 - https://github.com/gagliardetto/solana-go [Go SDK library and RPC client for the Solana Blockchain]
 
-## Interaction
+### Interaction
 - https://github.com/ethereum/go-ethereum [go ethereum]
 - https://github.com/ethereum/web3.py [py ethereum]
 - https://github.com/wevm/viem [js/ts Ethereum]
@@ -291,7 +293,7 @@ Or you can send an issue for me.
 - https://github.com/evmauth/evmauth-ts [A TypeScript SDK for interacting with EVMAuth contracts]
 - https://github.com/loocapro/reth-bsc [A BSC-compatible Reth client implementation]
   
-## Tools
+### Tools
 - https://github.com/swiss-knife-xyz/swiss-knife [All your EVM tools in one place]
 - https://github.com/EIPTools/eip-tools [Explore all EIPs, ERCs, RIPs and CAIPs easily]
 - https://github.com/a16z/halmos [A symbolic testing tool for EVM]
@@ -333,7 +335,7 @@ Or you can send an issue for me.
 - https://github.com/anza-xyz/jetstreamer [A Solana project geared towards realtime indexing, research, and backfilling with support for all epochs in the history of Solana mainnet]
 - https://github.com/MetaMask/eth-phishing-detect [Utility for detecting phishing domains targeting Web3 users]
 
-## Compiler
+### Compilers
 - https://github.com/ethereum/solidity [Solidity]
 - https://github.com/vyperlang/vyper [Pythonic Smart Contract Language for the EVM]
 - https://github.com/paradigmxyz/solar [Solidity compiler, written in Rust]
@@ -353,19 +355,19 @@ Or you can send an issue for me.
 - https://github.com/matter-labs/solx [LLVM-based Solidity compiler]
 - https://github.com/pr0cf5/solana-llvm-compiler [Using llvm to convert an eBPF shared library to x86]
 
-## Decompilers
+### Decompilers
 - https://github.com/Jon-Becker/heimdall-rs [Decompiler for EVM smart contract]
 - https://app.dedaub.com/ [Decompiler for EVM smart contract]
 - https://ethervm.io/decompile [Decompiler for EVM smart contract]
 - https://github.com/msuiche/porosity [Decompiler for EVM smart contract written by C++]
 - https://github.com/verichains/revela [Decompiler for Move smart contracts]
 
-## Development Frameworks
+### Development Frameworks
 - https://github.com/foundry-rs/foundry [Ethereum application development]
 - https://github.com/coral-xyz/anchor [Solana Sealevel Framework]
 - https://github.com/anza-xyz/platform-tools [Customized Rust/Clang toolchain for Solana Platform]
 
-## ZK Proofs
+### ZK Proofs
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs [ZKP Guide]
 - https://github.com/scipr-lab/libsnark [C++ library for zkSNARKs]
 - https://github.com/Consensys/gnark [Fast zk-SNARK library]
@@ -373,7 +375,7 @@ Or you can send an issue for me.
 - https://github.com/zksecurity/zkbugs [Reproduce ZKP vulnerabilities]
 - https://github.com/google/longfellow-zk [Implementation of the Google Zero-Knowledge library for Identity Protocols]
 
-## Unit Tests
+### Unit Tests
 - https://github.com/foundry-rs/foundry
 - https://github.com/gmh5225/forge-gui [A GUI wrapper command-line tool for Foundry Template]
 - https://github.com/NomicFoundation/hardhat
@@ -456,10 +458,11 @@ Or you can send an issue for me.
 - https://github.com/Contract-examples/CrimeEnjoyor [CrimeEnjoyor for EIP-7702]
 - https://github.com/justshiftjk/EVM-Pumpfun-Solidity-Contract [EVM version of pumpfun smart contract]
 
-## Stablecoin
+## DeFi Topics
+### Stablecoin
 - https://github.com/lakshayvaishnav/stable-coin [a decentralized stablecoin protocol on the Solana blockchain]
 
-## MEV
+### MEV
 - https://github.com/flashbots [for ethereum]
 - https://github.com/jito-foundation/jito-solana [for solana]
 
