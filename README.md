@@ -119,6 +119,7 @@ Or you can send an issue for me.
 
 ## Blockchain Guide
 - https://github.com/useWeb3/awesome-web3 [awesome web3]
+- https://github.com/karask/satoshi-paper [Original Satoshi paper in various formats]
 - https://l2beat.com/scaling/summary [L2BEAT Scaling Summary]
 - https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers [Practical Cryptography and Distributed Ledgers]
 - https://github.com/mush-support/mush-news [MushNews - Web3 News Explorer]
