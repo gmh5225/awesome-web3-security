@@ -263,6 +263,7 @@ Or you can send an issue for me.
 - https://github.com/0xcregis/anychain [Multi-chain Rust wallet SDK]
 - https://github.com/coming-chat/wallet-SDK [Multi-chain Wallet SDK]
 - https://github.com/near/wallet-selector [NEAR Wallet Selector]
+- https://github.com/Railgun-Community/wallet [RAILGUN Wallet]
 
 ### MPC
 - https://github.com/coinbase/cb-mpc [Coinbase MPC Library]
@@ -364,6 +365,8 @@ Or you can send an issue for me.
 - https://github.com/MetaMask/eth-phishing-detect [Utility for detecting phishing domains targeting Web3 users]
 - https://github.com/ponder-sh/ponder [Ponder]
 - https://github.com/better-auth/better-auth [Better Auth]
+- https://github.com/libp2p [libp2p]
+- https://github.com/paraswap/paraswap-dex-lib [ParaSwap DEX Library]
 
 ### Compilers
 - https://github.com/ethereum/solidity [Solidity]
@@ -456,6 +459,7 @@ Or you can send an issue for me.
 - https://github.com/m14r41/PentestingEverything/tree/main/BlockChain%20Pentesting [Pentesting Checklist]
 - https://github.com/immunefi-team/Web3-Security-Library [web3 security and programming tutorials/tools]
 - https://github.com/coinspect/wallet-security-verification-standard [Wallet Security Verification Standard]
+- https://github.com/theexoticman/zodiac-delegatecall-guard [Zodiac DelegateCall Guard]
 - https://github.com/ZhangZhuoSJTU/Web3Bugs [Bugs in Smart Contracts]
 - https://github.com/kadenzipfel/smart-contract-vulnerabilities [A collection of smart contract vulnerabilities]
 - https://github.com/cryptostaker2/blockchain-security-audits [Security audits]
