@@ -10,7 +10,7 @@ A curated list of Web3 Security materials and resources for Pentesters and Bug H
 If you find that some links are not working, you can simply replace the username with gmh5225. 
 Or you can send an issue for me.
 ```
-## Show respect to all the projects below, perfect works of art :saluting_face: 
+> Show respect to all the projects below, perfect works of art :saluting_face:
 
 ## How to contribute?
 - https://github.com/HyunCafe/contribute-practice
@@ -380,6 +380,23 @@ Or you can send an issue for me.
 - https://github.com/SunWeb3Sec/DeFiLabs [On-chain test DeFi using Foundry]
 - https://github.com/1inch/solidity-utils [Utility Library for Smart Contracts and Testing]
 
+### Contract Source Code
+- https://github.com/ethereum/solidity-examples [Solidity example code]
+- https://github.com/shafu0x/awesome-smart-contracts [awesome]
+- https://github.com/tangtj/bsc-contract-database [BSC]
+- https://github.com/smartcontractkit/smart-contract-examples [ERC]
+- https://github.com/thirdweb-dev/contracts [ERC]
+- https://github.com/proofofplay/piratenation-contracts [The Pirate Nation game]
+- https://github.com/tornadocash [Tornado Cash]
+- https://github.com/nkrishang/tornado-cash-rebuilt [Tornado Cash rebuilt]
+- https://github.com/luvnft/Memecoin-BASE [MEME]
+- https://github.com/ITExpert0228/Meme_project [MEME]
+- https://github.com/jamesbachini/DEX-Arbitrage [Trading bot on NEAR Protocol]
+- https://github.com/Vectorized/gasback [A barebones implementation of a gasback contract that implements [RIP-7767](https://github.com/ethereum/RIPs/blob/master/RIPS/rip-7767.md)]
+- https://github.com/evmauth/evmauth-core [EVMAuth is an advanced implementation of the ERC-1155 token standard that enables robust EVM-based authorization for Web3 applications]
+- https://github.com/Contract-examples/CrimeEnjoyor [CrimeEnjoyor for EIP-7702]
+- https://github.com/justshiftjk/EVM-Pumpfun-Solidity-Contract [EVM version of pumpfun smart contract]
+
 ## Security
 - https://github.com/TradMod/awesome-audits-checklists [A curated list of smart contracts security audits checklists]
 - https://github.com/crytic/awesome-ethereum-security [awesome ethereum security]
@@ -431,23 +448,6 @@ Or you can send an issue for me.
 - https://github.com/Ackee-Blockchain/trident [Rust-based framework to Fuzz Solana programs, designed to help you ship secure code]
 - https://github.com/Ackee-Blockchain/wake [Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors]
 - https://github.com/numencyber/Move_Security_Course [Move Security]
-
-## Contract source code
-- https://github.com/ethereum/solidity-examples [Solidity example code]
-- https://github.com/shafu0x/awesome-smart-contracts [awesome]
-- https://github.com/tangtj/bsc-contract-database [BSC]
-- https://github.com/smartcontractkit/smart-contract-examples [ERC]
-- https://github.com/thirdweb-dev/contracts [ERC]
-- https://github.com/proofofplay/piratenation-contracts [The Pirate Nation game]
-- https://github.com/tornadocash [Tornado Cash]
-- https://github.com/nkrishang/tornado-cash-rebuilt [Tornado Cash rebuilt]
-- https://github.com/luvnft/Memecoin-BASE [MEME]
-- https://github.com/ITExpert0228/Meme_project [MEME]
-- https://github.com/jamesbachini/DEX-Arbitrage [Trading bot on NEAR Protocol]
-- https://github.com/Vectorized/gasback [A barebones implementation of a gasback contract that implements [RIP-7767](https://github.com/ethereum/RIPs/blob/master/RIPS/rip-7767.md)]
-- https://github.com/evmauth/evmauth-core [EVMAuth is an advanced implementation of the ERC-1155 token standard that enables robust EVM-based authorization for Web3 applications]
-- https://github.com/Contract-examples/CrimeEnjoyor [CrimeEnjoyor for EIP-7702]
-- https://github.com/justshiftjk/EVM-Pumpfun-Solidity-Contract [EVM version of pumpfun smart contract]
 
 ## DeFi Topics
 ### Stablecoin
