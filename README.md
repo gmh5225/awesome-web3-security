@@ -162,6 +162,7 @@ Or you can send an issue for me.
 - https://github.com/jtriley-eth/the-ethereum-virtual-machine [EVM]
 - https://github.com/w1nt3r-eth/evm-from-scratch [EVM]
 - https://github.com/shafu0x/evm-from-scratch-book [EVM]
+- https://github.com/wjmelements/evm [EVM (C)]
 - https://github.com/4337Mafia/awesome-account-abstraction [EIP-4337]
 - https://github.com/Arvolear/awesome-eip-7702-delegations [awesome EIP-7702]
 - https://github.com/smlxl/evm.codes [EVM Opcodes Interactive Reference]
@@ -404,6 +405,8 @@ Or you can send an issue for me.
 - https://github.com/zkcrypto/bellman [zk-SNARK library]
 - https://github.com/zksecurity/zkbugs [Reproduce ZKP vulnerabilities]
 - https://github.com/google/longfellow-zk [Implementation of the Google Zero-Knowledge library for Identity Protocols]
+- https://github.com/TheBojda/zktree-vote [Anonymous Voting with Zero-Knowledge Proofs]
+- https://github.com/zkMaps/zkMaps [Zero-Knowledge Location Proofs]
 
 ### Unit Tests
 - https://github.com/foundry-rs/foundry
@@ -412,6 +415,7 @@ Or you can send an issue for me.
 - https://github.com/zeroknots/brokentoken [Foundry Test Suit to test weird ERC20 behavior]
 - https://github.com/SunWeb3Sec/DeFiLabs [On-chain test DeFi using Foundry]
 - https://github.com/1inch/solidity-utils [Utility Library for Smart Contracts and Testing]
+- https://gitlab.com/learn-web31/foundry-cheatcode [Foundry Cheatcodes Notes]
 
 ### Contract Source Code
 - https://github.com/ethereum/solidity-examples [Solidity example code]
