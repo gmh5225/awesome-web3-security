@@ -4,6 +4,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-web3-security)](https://github.com/gmh5225/awesome-web3-security/blob/main/LICENSE)
 
+A curated list of Web3 Security materials and resources for Pentesters and Bug Hunters.
+
 ```
 If you find that some links are not working, you can simply replace the username with gmh5225. 
 Or you can send an issue for me.
@@ -15,6 +17,112 @@ Or you can send an issue for me.
 - https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
 
+
+## Web3 Security CTFs
+
+- https://capturetheether.com/ [Capture the Ether]
+- https://ethernaut.openzeppelin.com/ [The Ethernaut]
+- https://www.damnvulnerabledefi.xyz/ [Damn Vulnerable DeFi]
+- https://blockchain-ctf.securityinnovation.com/#/ [Security Innovation Blockchain CTF]
+- https://github.com/nccgroup/GOATCasino [GOAT Casino]
+- https://github.com/paradigm-operations/paradigm-ctf-2021 [Paradigm CTF]
+- https://github.com/blockthreat/blocksec-ctfs [Blocksec CTFs]
+- https://ciphershastra.com/ [ciphershastra CTF]
+- https://github.com/SunWeb3Sec/DeFiVulnLabs [DeFiVulnLabs]
+- https://quillctf.super.site/ [QuillCTF]
+- https://www.vulnmachines.com/ [Vulnmachines - Blockchain hacking]
+- https://www.web3pwn.com/ [Web3Pwn - Web3 Security Training Platform]
+
+## Web3 Security Mindmaps
+
+- https://www.xmind.net/m/2zbPP7/ [Common Vulnerabilities in Smart Contracts MindMap (XMind)]
+- https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor [How to become a smart contract auditor? (MindMap)]
+- https://xmind.works/share/zfdeD07U [Web3 Security Tools MindMap]
+
+## Web3 Security Tools
+
+- https://github.com/Quillhash/Web3-Security-Tools [Quillhash Web3-Security-Tools]
+- https://remix-project.org/ [Remix Ethereum IDE]
+
+## Web3 Blogs & Postmortems
+
+- https://medium.com/immunefi [Immunefi Medium]
+- https://blog.openzeppelin.com/security-audits/ [OpenZeppelin Blogs (Security Audits)]
+- https://quillaudits.medium.com/ [QuillAudits Blogs]
+- https://blog.solidityscan.com/ [SolidityScan Blogs]
+- https://medium.com/@Beosin_com [Beosin]
+- https://neptunemutual.medium.com/ [Neptune Mutual]
+- https://blocksecteam.medium.com/ [BlockSec]
+- https://www.certik.com/resources/blog [CertiK Blogs]
+- https://mouse-run.beehiiv.com [mouse-run]
+
+## Crypto Bug Bounty Platforms
+
+- https://immunefi.com/ [Immunefi]
+- https://hackenproof.com/programs [HackenProof]
+- https://code4rena.com/ [Code4rena]
+- https://gitcoin.co/explorer [Gitcoin]
+- https://hackerone.com [HackerOne]
+- https://spearbit.com/ [Spearbit]
+- https://app.sherlock.xyz/ [Sherlock]
+- https://saloon.finance/ [The Saloon]
+- https://hats.finance/ [Hats Finance]
+
+## Web3 Security Newsletter
+
+- https://newsletter.blockthreat.io/ [Blockchain Threat Intelligence]
+- https://rekt.news/ [REKT]
+- https://weekinethereumnews.com/ [Week in Ethereum News]
+- https://quillaudits.substack.com/ [HashingBits Newsletter]
+
+## Hacks / Trends / Resources Collection
+
+- https://web3sec.news [Web3sec.news]
+
+## Web3 Security Conference Talks & Videos
+
+- https://www.youtube.com/watch?v=lJQwuyW4t-k [Overview of Web3 Smart Contract Hacking | IWCON-S22 Talk by Duncan Townsend]
+- http://www.youtube.com/watch?v=P8LXLoTUJ5g [hat Ethereum Smart Contract Hacking Looks Like by LiveOverFlow]
+- https://www.youtube.com/watch?v=zcJmWr5_GOc [The Web3 Security Mindset with Corey Petty]
+- https://www.youtube.com/watch?v=QSmtVR0aniI [Security and Vulnerabilities in Web3 - Harry Papacharissiou]
+- https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX [Web3 Security Playlist]
+- https://www.youtube.com/watch?v=A5s9aez43Co&list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi [Unstoppable - Damn Vulnerable DeFi | CTF]
+- https://www.youtube.com/watch?v=cOP9z9XWjwc [Smart Contract Hacking - 0x0C - Attacking Authorization with Web3.js]
+- https://www.youtube.com/watch?v=TmZ8gH-toX0 [How to Audit a Smart Contract | Can you find the Solidity Security Vulnerabilities?]
+- https://www.youtube.com/watch?v=gyMwXuJrbJQ [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course]
+
+## Resources to learn Solidity
+
+- https://cryptozombies.io/ [CryptoZombies]
+- https://www.learnweb3.io/ [LearnWeb3]
+- https://www.smartcontract.engineer/ [Smart Contract Engineer]
+- https://solidity-by-example.org/ [Solidity by Example]
+- https://www.web3.university/ [Web3 University]
+- https://www.useweb3.xyz/ [useWeb3]
+
+## Smart Contract Security Audit Reports
+
+- https://github.com/chainsulting/Smart-Contract-Security-Audits [Chainsulting]
+- https://code4rena.com/reports [Code4rena Audit Reports]
+- https://consensys.net/diligence/audits/ [Consensys Audit Reports]
+- https://github.com/Quillhash/QuillAudit_Reports [QuillAudits Audit Reports]
+- https://github.com/spearbit/portfolio/tree/master/pdfs [Spearbit Audit Reports]
+- https://github.com/iskdrews/awesome-solidity-security [iskdrews]
+- https://github.com/sherlock-protocol/sherlock-reports [Sherlock]
+- https://github.com/nicholashc/AvastarsAudit/ [Avastars Smart Contract Audit Public Report]
+- https://github.com/KubixSquare/AuditReports [KubixSquare audit]
+- https://github.com/jigstack-dev/lemonade-audits [lemonade-audits]
+- https://github.com/TechRate/Smart-Contract-Audits [Techrate]
+- https://github.com/interfinetwork/smart-contract-audits [interfinetwork]
+- https://github.com/decentraland/smart-contract-audits [Decentraland audit]
+- https://github.com/Tech-Audit/Smart-Contract-Audits [Tech-Audit]
+- https://drive.google.com/drive/folders/1kkjdpNuRmTjaiIKA6CQISavCvj4Awpbc [Sifchain]
+- https://github.com/0xNazgul/Blockchain-Security-Audit-List [Complete List of Security Audit Reports]
+
+## Smart Contract Security Certifications
+
+- https://secops.group/certified-blockchain-practitioner [Certified Blockchain Practitioner (CBP)]
+- https://blockchaintrainingalliance.com/products/cbsp [Certified Blockchain Security Professional (CBSP)]
 
 ## Blockchain Guide
 - https://github.com/useWeb3/awesome-web3 [awesome web3]
@@ -206,7 +314,6 @@ Or you can send an issue for me.
 - https://github.com/loocapro/reth-bsc [A BSC-compatible Reth client implementation]
   
 ## Tools
-- https://github.com/Quillhash/Web3-Security-Tools [Web3 Security Tools]
 - https://github.com/swiss-knife-xyz/swiss-knife [All your EVM tools in one place]
 - https://github.com/EIPTools/eip-tools [Explore all EIPs, ERCs, RIPs and CAIPs easily]
 - https://github.com/a16z/halmos [A symbolic testing tool for EVM]
@@ -316,7 +423,6 @@ Or you can send an issue for me.
 - https://github.com/SunWeb3Sec [Let's make Web3 more secure]
 - https://defihacklabs.io/explorer/index.html [DeFiHackLabs Explorer]
 - https://github.com/SunWeb3Sec/DeFiHackLabs [Reproduce DeFi hacked incidents using Foundry]
-- https://github.com/SunWeb3Sec/DeFiVulnLabs [To learn common smart contract vulnerabilities using Foundry]
 - https://github.com/theredguild/damn-vulnerable-defi [The smart contract security training ground for developers, security researchers and educators]
 - https://github.com/m14r41/PentestingEverything/tree/main/BlockChain%20Pentesting [Pentesting Checklist]
 - https://github.com/immunefi-team/Web3-Security-Library [web3 security and programming tutorials/tools]
