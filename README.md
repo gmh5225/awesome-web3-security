@@ -4,13 +4,13 @@
 
 [![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-web3-security)](https://github.com/gmh5225/awesome-web3-security/blob/main/LICENSE)
 
-A curated list of Web3 Security materials and resources for Pentesters and Bug Hunters
+A curated list of Web3 Security materials and resources for Pentesters and Bug Hunters.
 
 ```
 If you find that some links are not working, you can simply replace the username with gmh5225. 
 Or you can send an issue for me.
 ```
-> Show respect to all the projects below, perfect works of art :saluting_face:.
+> Show respect to all the projects below, perfect works of art :saluting_face:
 
 ## How to contribute?
 - https://github.com/HyunCafe/contribute-practice
