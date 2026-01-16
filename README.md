@@ -62,8 +62,15 @@ Or you can send an issue for me.
   - https://hackerone.com [HackerOne]
   - https://spearbit.com/ [Spearbit]
   - https://app.sherlock.xyz/ [Sherlock]
+  - https://audits.sherlock.xyz/contests [Sherlock Contests]
   - https://saloon.finance/ [The Saloon]
   - https://hats.finance/ [Hats Finance]
+  - https://secure3.io/ [Secure3]
+  - https://app.secure3.io/ [Secure3 Contests]
+  - https://securr.tech/ [Securr]
+  - https://r.xyz/ [Remedy]
+  - https://hunt.r.xyz/ [Remedy Hunt]
+  - https://www.vigilseek.com/bug-bounty [Vigilseek (Bug Bounty Aggregator)]
 
 - **Newsletters / Collections**
   - https://newsletter.blockthreat.io/ [BlockThreat]
@@ -99,6 +106,7 @@ Or you can send an issue for me.
   - https://github.com/spearbit/portfolio/tree/master/pdfs [Spearbit]
   - https://github.com/sherlock-protocol/sherlock-reports [Sherlock]
   - https://github.com/0xNazgul/Blockchain-Security-Audit-List [Audit List]
+  - https://github.com/shieldify-security/audits-portfolio [Shieldify]
 
 - **Certifications**
   - https://secops.group/certified-blockchain-practitioner [CBP]
@@ -106,6 +114,7 @@ Or you can send an issue for me.
 
 ## Blockchain Guide
 - https://github.com/useWeb3/awesome-web3 [awesome web3]
+- https://l2beat.com/scaling/summary [L2BEAT Scaling Summary]
 - https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers [Practical Cryptography and Distributed Ledgers]
 - https://github.com/mush-support/mush-news [MushNews - Web3 News Explorer]
 - https://github.com/lukasmasuch/best-of-crypto [awesome open-source crypto projects]
@@ -236,16 +245,24 @@ Or you can send an issue for me.
 ## Wallet
 ### Source Code
 - https://github.com/MetaMask [MetaMask]
+- https://github.com/MetaMask/solana-wallet-standard [MetaMask Solana Wallet Standard]
+- https://github.com/MetaMask/snap-bitcoin-wallet [MetaMask Bitcoin Snap Wallet]
 - https://github.com/ethereum/wallet-poc [The web3 wallet that makes crypto self-custody easy and secure via hybrid account abstraction. EIP-7702 ready]
 - https://github.com/coinbase/smart-wallet [ ERC-4337 compliant smart contract wallet from Coinbase]
 - https://github.com/samui-build/samui-wallet [Open Source wallet and toolbox for Solana builders]
 - https://github.com/ApeWorX/Ruffsack [A rugged multisig wallet for everyday adventures]
+- https://github.com/0xcregis/anychain [Multi-chain Rust wallet SDK]
+- https://github.com/coming-chat/wallet-SDK [Multi-chain Wallet SDK]
 
 ### MPC
 - https://github.com/coinbase/cb-mpc [Coinbase MPC Library]
 - https://github.com/bnb-chain/tss-lib [Threshold Signature Scheme, for ECDSA and EDDSA]
 - https://github.com/vultisig/mobile-tss-lib [Threshold Signature Scheme on mobile]
 - https://github.com/taurushq-io/multi-party-sig [Implementation of protocols for threshold signatures]
+- https://docs.binance.org/tss.html [Binance TSS Documentation]
+- https://hackmd.io/@elichai/legendrery [HD Wallets and the Legendrery PRF in MPC]
+- https://github.com/grempe/secrets.js [Shamir Secret Sharing (JavaScript)]
+- https://github.com/jesseduffield/horcrux [Shamir Secret Sharing Tool for Crypto Keys]
 
 ### Connection
 - https://github.com/reown-com/appkit [web]
@@ -307,6 +324,8 @@ Or you can send an issue for me.
 - https://github.com/Polymarket/agents [Trade autonomously on Polymarket using AI Agents]
 - https://github.com/daijro/camoufox [Anti-detect browser]
 - https://github.com/blockscout/blockscout [Blockchain explorer for Ethereum]
+- https://github.com/OpenZeppelin/openzeppelin-monitor [OpenZeppelin Monitor]
+- https://github.com/OpenZeppelin/openzeppelin-relayer [OpenZeppelin Relayer]
 - https://github.com/mush-support/mush-audit [AI-powered smart contract security analysis platform]
 - https://github.com/HrikB/createXcrunch [find zero-leading, zero-containing, or pattern-matching addresses for the CreateX contract factory]
 - https://github.com/NeurProjects/neur-app [The Intelligent Copilot for Solana]
@@ -331,6 +350,7 @@ Or you can send an issue for me.
 - https://github.com/gmh5225/js-debugger-bypass-script [JS Debugger Bypass UserScript]
 - https://github.com/anza-xyz/jetstreamer [A Solana project geared towards realtime indexing, research, and backfilling with support for all epochs in the history of Solana mainnet]
 - https://github.com/MetaMask/eth-phishing-detect [Utility for detecting phishing domains targeting Web3 users]
+- https://github.com/ponder-sh/ponder [Ponder]
 
 ### Compilers
 - https://github.com/ethereum/solidity [Solidity]
@@ -366,6 +386,7 @@ Or you can send an issue for me.
 
 ### ZK Proofs
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs [ZKP Guide]
+- https://github.com/nishuzumi/zk101 [zk101]
 - https://github.com/scipr-lab/libsnark [C++ library for zkSNARKs]
 - https://github.com/Consensys/gnark [Fast zk-SNARK library]
 - https://github.com/zkcrypto/bellman [zk-SNARK library]
