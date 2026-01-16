@@ -20,16 +20,89 @@ Or you can send an issue for me.
 
 ## Security Starter Pack
 
-- **CTFs / Practice**: https://capturetheether.com/ [Capture the Ether], https://ethernaut.openzeppelin.com/ [The Ethernaut], https://www.damnvulnerabledefi.xyz/ [Damn Vulnerable DeFi], https://blockchain-ctf.securityinnovation.com/#/ [Security Innovation Blockchain CTF], https://github.com/nccgroup/GOATCasino [GOAT Casino], https://github.com/paradigm-operations/paradigm-ctf-2021 [Paradigm CTF], https://github.com/blockthreat/blocksec-ctfs [Blocksec CTFs], https://ciphershastra.com/ [ciphershastra CTF], https://github.com/SunWeb3Sec/DeFiVulnLabs [DeFiVulnLabs], https://quillctf.super.site/ [QuillCTF], https://www.vulnmachines.com/ [Vulnmachines], https://www.web3pwn.com/ [Web3Pwn]
-- **Mindmaps**: https://www.xmind.net/m/2zbPP7/ [Common Vulnerabilities MindMap], https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor [Auditor MindMap], https://xmind.works/share/zfdeD07U [Tools MindMap]
-- **Tools**: https://github.com/Quillhash/Web3-Security-Tools [Web3-Security-Tools], https://remix-project.org/ [Remix]
-- **Blogs / Postmortems**: https://medium.com/immunefi [Immunefi], https://blog.openzeppelin.com/security-audits/ [OpenZeppelin], https://quillaudits.medium.com/ [QuillAudits], https://blog.solidityscan.com/ [SolidityScan], https://medium.com/@Beosin_com [Beosin], https://neptunemutual.medium.com/ [Neptune Mutual], https://blocksecteam.medium.com/ [BlockSec], https://www.certik.com/resources/blog [CertiK], https://mouse-run.beehiiv.com [mouse-run]
-- **Bug Bounties**: https://immunefi.com/ [Immunefi], https://hackenproof.com/programs [HackenProof], https://code4rena.com/ [Code4rena], https://gitcoin.co/explorer [Gitcoin], https://hackerone.com [HackerOne], https://spearbit.com/ [Spearbit], https://app.sherlock.xyz/ [Sherlock], https://saloon.finance/ [The Saloon], https://hats.finance/ [Hats Finance]
-- **Newsletters / Collections**: https://newsletter.blockthreat.io/ [BlockThreat], https://rekt.news/ [REKT], https://weekinethereumnews.com/ [Week in Ethereum News], https://quillaudits.substack.com/ [HashingBits], https://web3sec.news [Web3sec.news]
-- **Talks / Videos**: https://www.youtube.com/watch?v=lJQwuyW4t-k [IWCON-S22], http://www.youtube.com/watch?v=P8LXLoTUJ5g [LiveOverflow], https://www.youtube.com/watch?v=zcJmWr5_GOc [Web3 Security Mindset], https://www.youtube.com/watch?v=QSmtVR0aniI [Security and Vulnerabilities in Web3], https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX [Playlist], https://www.youtube.com/watch?v=A5s9aez43Co&list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi [Damn Vulnerable DeFi CTF], https://www.youtube.com/watch?v=cOP9z9XWjwc [Attacking Authorization], https://www.youtube.com/watch?v=TmZ8gH-toX0 [Audit a Smart Contract], https://www.youtube.com/watch?v=gyMwXuJrbJQ [32-Hour Course]
-- **Learn Solidity**: https://cryptozombies.io/ [CryptoZombies], https://www.learnweb3.io/ [LearnWeb3], https://www.smartcontract.engineer/ [Smart Contract Engineer], https://solidity-by-example.org/ [Solidity by Example], https://www.web3.university/ [Web3 University], https://www.useweb3.xyz/ [useWeb3]
-- **Audit Reports**: https://github.com/chainsulting/Smart-Contract-Security-Audits [Chainsulting], https://code4rena.com/reports [Code4rena Reports], https://consensys.net/diligence/audits/ [Consensys], https://github.com/Quillhash/QuillAudit_Reports [QuillAudits], https://github.com/spearbit/portfolio/tree/master/pdfs [Spearbit], https://github.com/sherlock-protocol/sherlock-reports [Sherlock], https://github.com/0xNazgul/Blockchain-Security-Audit-List [Audit List]
-- **Certifications**: https://secops.group/certified-blockchain-practitioner [CBP], https://blockchaintrainingalliance.com/products/cbsp [CBSP]
+- **CTFs / Practice**
+  - https://capturetheether.com/ [Capture the Ether]
+  - https://ethernaut.openzeppelin.com/ [The Ethernaut]
+  - https://www.damnvulnerabledefi.xyz/ [Damn Vulnerable DeFi]
+  - https://blockchain-ctf.securityinnovation.com/#/ [Security Innovation Blockchain CTF]
+  - https://github.com/nccgroup/GOATCasino [GOAT Casino]
+  - https://github.com/paradigm-operations/paradigm-ctf-2021 [Paradigm CTF]
+  - https://github.com/blockthreat/blocksec-ctfs [Blocksec CTFs]
+  - https://ciphershastra.com/ [ciphershastra CTF]
+  - https://github.com/SunWeb3Sec/DeFiVulnLabs [DeFiVulnLabs]
+  - https://quillctf.super.site/ [QuillCTF]
+  - https://www.vulnmachines.com/ [Vulnmachines]
+  - https://www.web3pwn.com/ [Web3Pwn]
+
+- **Mindmaps**
+  - https://www.xmind.net/m/2zbPP7/ [Common Vulnerabilities MindMap]
+  - https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor [Auditor MindMap]
+  - https://xmind.works/share/zfdeD07U [Tools MindMap]
+
+- **Tools**
+  - https://github.com/Quillhash/Web3-Security-Tools [Web3-Security-Tools]
+  - https://remix-project.org/ [Remix]
+
+- **Blogs / Postmortems**
+  - https://medium.com/immunefi [Immunefi]
+  - https://blog.openzeppelin.com/security-audits/ [OpenZeppelin]
+  - https://quillaudits.medium.com/ [QuillAudits]
+  - https://blog.solidityscan.com/ [SolidityScan]
+  - https://medium.com/@Beosin_com [Beosin]
+  - https://neptunemutual.medium.com/ [Neptune Mutual]
+  - https://blocksecteam.medium.com/ [BlockSec]
+  - https://www.certik.com/resources/blog [CertiK]
+  - https://mouse-run.beehiiv.com [mouse-run]
+
+- **Bug Bounties**
+  - https://immunefi.com/ [Immunefi]
+  - https://hackenproof.com/programs [HackenProof]
+  - https://code4rena.com/ [Code4rena]
+  - https://gitcoin.co/explorer [Gitcoin]
+  - https://hackerone.com [HackerOne]
+  - https://spearbit.com/ [Spearbit]
+  - https://app.sherlock.xyz/ [Sherlock]
+  - https://saloon.finance/ [The Saloon]
+  - https://hats.finance/ [Hats Finance]
+
+- **Newsletters / Collections**
+  - https://newsletter.blockthreat.io/ [BlockThreat]
+  - https://rekt.news/ [REKT]
+  - https://weekinethereumnews.com/ [Week in Ethereum News]
+  - https://quillaudits.substack.com/ [HashingBits]
+  - https://web3sec.news [Web3sec.news]
+
+- **Talks / Videos**
+  - https://www.youtube.com/watch?v=lJQwuyW4t-k [IWCON-S22]
+  - http://www.youtube.com/watch?v=P8LXLoTUJ5g [LiveOverflow]
+  - https://www.youtube.com/watch?v=zcJmWr5_GOc [Web3 Security Mindset]
+  - https://www.youtube.com/watch?v=QSmtVR0aniI [Security and Vulnerabilities in Web3]
+  - https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX [Playlist]
+  - https://www.youtube.com/watch?v=A5s9aez43Co&list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi [Damn Vulnerable DeFi CTF]
+  - https://www.youtube.com/watch?v=cOP9z9XWjwc [Attacking Authorization]
+  - https://www.youtube.com/watch?v=TmZ8gH-toX0 [Audit a Smart Contract]
+  - https://www.youtube.com/watch?v=gyMwXuJrbJQ [32-Hour Course]
+
+- **Learn Solidity**
+  - https://cryptozombies.io/ [CryptoZombies]
+  - https://www.learnweb3.io/ [LearnWeb3]
+  - https://www.smartcontract.engineer/ [Smart Contract Engineer]
+  - https://solidity-by-example.org/ [Solidity by Example]
+  - https://www.web3.university/ [Web3 University]
+  - https://www.useweb3.xyz/ [useWeb3]
+
+- **Audit Reports**
+  - https://github.com/chainsulting/Smart-Contract-Security-Audits [Chainsulting]
+  - https://code4rena.com/reports [Code4rena Reports]
+  - https://consensys.net/diligence/audits/ [Consensys]
+  - https://github.com/Quillhash/QuillAudit_Reports [QuillAudits]
+  - https://github.com/spearbit/portfolio/tree/master/pdfs [Spearbit]
+  - https://github.com/sherlock-protocol/sherlock-reports [Sherlock]
+  - https://github.com/0xNazgul/Blockchain-Security-Audit-List [Audit List]
+
+- **Certifications**
+  - https://secops.group/certified-blockchain-practitioner [CBP]
+  - https://blockchaintrainingalliance.com/products/cbsp [CBSP]
 
 ## Blockchain Guide
 - https://github.com/useWeb3/awesome-web3 [awesome web3]
