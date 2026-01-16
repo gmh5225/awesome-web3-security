@@ -1,4 +1,18 @@
 
+
+# `awesome-web3-security`
+```
+If you find that some links are not working, you can simply replace the username with gmh5225. 
+Or you can send an issue for me.
+```
+## Show respect to all the projects below, perfect works of art :saluting_face: 
+
+## How to contribute?
+- https://github.com/HyunCafe/contribute-practice
+- https://docs.github.com/en/get-started/quickstart/contributing-to-projects
+
+
+
 ## Blockchain Guide
 - https://github.com/useWeb3/awesome-web3 [awesome web3]
 - https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers [Practical Cryptography and Distributed Ledgers]
