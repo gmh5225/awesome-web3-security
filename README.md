@@ -407,6 +407,7 @@ Or you can send an issue for me.
 
 ### Contract Source Code
 - https://github.com/ethereum/solidity-examples [Solidity example code]
+- https://github.com/rdubois-crypto/FreshCryptoLib [Deprecated: cryptographic primitives for blockchain systems (Solidity/Cairo/C/Rust)]
 - https://github.com/shafu0x/awesome-smart-contracts [awesome]
 - https://github.com/tangtj/bsc-contract-database [BSC]
 - https://github.com/smartcontractkit/smart-contract-examples [ERC]
