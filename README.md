@@ -354,6 +354,7 @@ Or you can send an issue for me.
 - https://github.com/better-auth/better-auth [Better Auth]
 - https://github.com/libp2p [libp2p]
 - https://github.com/paraswap/paraswap-dex-lib [ParaSwap DEX Library]
+- https://github.com/OpenZeppelin/ui-builder [OpenZeppelin UI Builder: chain-agnostic form builder for smart contract interaction]
 
 ### Compilers
 - https://github.com/ethereum/solidity [Solidity]
