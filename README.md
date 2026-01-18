@@ -1,6 +1,6 @@
 
 
-# `awesome-web3-security`
+# `awesome-web3-security`[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-web3-security)](https://github.com/gmh5225/awesome-web3-security/blob/main/LICENSE)
 
