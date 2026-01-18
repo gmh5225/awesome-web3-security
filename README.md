@@ -265,6 +265,7 @@ Or you can send an issue for me.
 ### Connection
 - https://github.com/reown-com/appkit [web]
 - https://github.com/rainbow-me/rainbowkit [web]
+- https://github.com/WalletConnect/walletconnect-monorepo [WalletConnect Monorepo]
 
 ## Development
 ### Smart Contract Templates
