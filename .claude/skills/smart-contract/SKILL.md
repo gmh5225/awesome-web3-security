@@ -1,6 +1,6 @@
 ---
 name: smart-contract-security
-description: Guide for EVM/solidity smart contract security work: vulnerability taxonomy, review workflow, and where to place resources in README.md.
+description: "Guide for EVM/solidity smart contract security work: vulnerability taxonomy, review workflow, and where to place resources in README.md."
 ---
 
 # Smart Contract Security (EVM / Solidity)

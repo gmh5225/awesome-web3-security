@@ -15,7 +15,6 @@ This is a curated collection of Web3 security materials and resources for pentes
 awesome-web3-security/
 ├── README.md                # Main resource list (curated)
 ├── LICENSE                  # License
-├── SKILL.md                 # Skills index (this repo)
 ├── .claude/
 │   └── skills/              # Claude skills (this directory)
 └── ref/                     # Optional reference notes (not curated)
