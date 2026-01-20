@@ -309,6 +309,7 @@ Or you can send an issue for me.
 - https://github.com/loocapro/reth-bsc [A BSC-compatible Reth client implementation]
   
 ### Tools
+- https://github.com/infosec-us-team/onboardme [The fastest way to understand complex Solidity smart contracts]
 - https://github.com/swiss-knife-xyz/swiss-knife [All your EVM tools in one place]
 - https://github.com/EIPTools/eip-tools [Explore all EIPs, ERCs, RIPs and CAIPs easily]
 - https://github.com/a16z/halmos [A symbolic testing tool for EVM]
