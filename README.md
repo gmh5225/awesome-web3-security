@@ -428,6 +428,7 @@ Or you can send an issue for me.
 - https://github.com/justshiftjk/EVM-Pumpfun-Solidity-Contract [EVM version of pumpfun smart contract]
 
 ## Security
+- https://github.com/OWASP/www-project-smart-contract-top-10 [OWASP Smart Contract Top 10]
 - https://github.com/TradMod/awesome-audits-checklists [A curated list of smart contracts security audits checklists]
 - https://github.com/crytic/awesome-ethereum-security [awesome ethereum security]
 - https://github.com/ArjunaSec/Awesome-Solana-checklist [awesome solana security]
