@@ -409,6 +409,7 @@ Or you can send an issue for me.
 - https://gitlab.com/learn-web31/foundry-cheatcode [Foundry Cheatcodes Notes]
 
 ### Contract Source Code
+- https://github.com/EkuboProtocol/evm-contracts [Ekubo Protocol AMM smart contracts for EVM]
 - https://github.com/ethereum/solidity-examples [Solidity example code]
 - https://github.com/rdubois-crypto/FreshCryptoLib [Deprecated: cryptographic primitives for blockchain systems (Solidity/Cairo/C/Rust)]
 - https://github.com/OpenZeppelin/contracts-sui [OpenZeppelin contracts for the Sui Move ecosystem]
