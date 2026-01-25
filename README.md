@@ -203,6 +203,7 @@ Or you can send an issue for me.
 - https://github.com/elizaOS/eliza-starter [eliza starter]
 - https://github.com/kyegomez/swarms [The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework]
 - https://github.com/blorm-network/ZerePy [ZerePy an open-source launch-pad for AI agents]
+- https://github.com/lambdaclass/eth-agent [AI agent wallet for EVM chains: send/swap/bridge stablecoins with spending limits and human approval]
 - https://github.com/kortix-ai/suna [Suna - Open Source Generalist AI Agent]
 - https://github.com/HKUDS/AutoAgent [AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework]
 - https://github.com/agno-agi/agno [Agno is a lightweight, high-performance library for building Agents]
