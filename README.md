@@ -16,7 +16,23 @@ Or you can send an issue for me.
 - https://github.com/HyunCafe/contribute-practice
 - https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
+## Skills for AI Coding Assistants
+This repository provides skills that can be used with AI coding assistants like [Cursor](https://www.cursor.com/), [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Codex CLI](https://github.com/openai/codex), and other compatible tools. Install skills to get specialized knowledge about Web3 security topics.
 
+**Installation:**
+```bash
+npx skills add https://github.com/gmh5225/awesome-web3-security --skill <skill-name>
+```
+
+**Available Skills:**
+| Skill | Description |
+|-------|-------------|
+| `mev-security` | MEV concepts, common attacks, and mitigations |
+| `awesome-web3-security-overview` | Understanding and contributing to this resource list |
+| `smart-contract-security` | EVM/Solidity smart contract security |
+| `solana-security` | Solana/Sealevel security research |
+| `web3-security-tooling` | Security tooling (analyzers, fuzzers, decompilers) |
+| `wallet-security` | Wallet security (MPC/TSS, key management, phishing) |
 
 ## Security Starter Pack
 
