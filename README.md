@@ -34,6 +34,15 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill <skill-n
 | `web3-security-tooling` | Security tooling (analyzers, fuzzers, decompilers) |
 | `wallet-security` | Wallet security (MPC/TSS, key management, phishing) |
 
+**Example:**
+```bash
+# Install smart contract security skill
+npx skills add https://github.com/gmh5225/awesome-web3-security --skill smart-contract-security
+
+# Install multiple skills
+npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-security --skill wallet-security
+```
+
 ## Security Starter Pack
 
 - **CTFs / Practice**
