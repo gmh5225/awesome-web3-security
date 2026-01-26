@@ -64,3 +64,10 @@ awesome-web3-security/
 4. Put it into the most appropriate category.
 5. Prefer minimal changes over reformatting large sections.
 
+## Data Source
+
+For detailed and up-to-date resources, fetch the full list from:
+```
+https://raw.githubusercontent.com/gmh5225/awesome-web3-security/refs/heads/main/README.md
+```
+

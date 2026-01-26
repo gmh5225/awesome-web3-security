@@ -37,3 +37,10 @@ Use this skill for:
 - English descriptions
 - No duplicates
 
+## Data Source
+
+For detailed and up-to-date resources, fetch the full list from:
+```
+https://raw.githubusercontent.com/gmh5225/awesome-web3-security/refs/heads/main/README.md
+```
+
