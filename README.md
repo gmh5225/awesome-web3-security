@@ -477,6 +477,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/immunefi-team/Web3-Security-Library [web3 security and programming tutorials/tools]
 - https://github.com/coinspect/wallet-security-verification-standard [Wallet Security Verification Standard]
 - https://github.com/theexoticman/zodiac-delegatecall-guard [Zodiac DelegateCall Guard]
+- https://github.com/BlossomLabs/Assertions [On-chain assertions for securing DAO proposals and Safe transactions]
 - https://github.com/ZhangZhuoSJTU/Web3Bugs [Bugs in Smart Contracts]
 - https://github.com/kadenzipfel/smart-contract-vulnerabilities [A collection of smart contract vulnerabilities]
 - https://github.com/cryptostaker2/blockchain-security-audits [Security audits]
