@@ -382,6 +382,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/libp2p [libp2p]
 - https://github.com/paraswap/paraswap-dex-lib [ParaSwap DEX Library]
 - https://github.com/OpenZeppelin/ui-builder [OpenZeppelin UI Builder: chain-agnostic form builder for smart contract interaction]
+- https://github.com/exchange-core/exchange-core [Ultra-fast matching engine written in Java based on LMAX Disruptor]
 
 ### Compilers
 - https://github.com/ethereum/solidity [Solidity]
