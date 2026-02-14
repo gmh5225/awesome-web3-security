@@ -144,6 +144,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 
 ## Blockchain Guide
 - https://github.com/useWeb3/awesome-web3 [awesome web3]
+- https://github.com/austintgriffith/ethskills [The missing knowledge between AI agents and production Ethereum]
 - https://github.com/karask/satoshi-paper [Original Satoshi paper in various formats]
 - https://l2beat.com/scaling/summary [L2BEAT Scaling Summary]
 - https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers [Practical Cryptography and Distributed Ledgers]
