@@ -267,6 +267,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/MetaMask [MetaMask]
 - https://github.com/MetaMask/solana-wallet-standard [MetaMask Solana Wallet Standard]
 - https://github.com/MetaMask/snap-bitcoin-wallet [MetaMask Bitcoin Snap Wallet]
+- https://github.com/freigeist-m/monero-multisig-gui [Monero multisig wallet GUI: create and coordinate multisig wallets with privacy]
 - https://github.com/MetaMask/metamask-extension [MetaMask Extension]
 - https://github.com/MetaMask/metamask-mobile [MetaMask Mobile]
 - https://github.com/MetaMask/metamask-desktop [MetaMask Desktop]
