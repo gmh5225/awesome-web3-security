@@ -241,6 +241,9 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/0xgasless/agentkit [AgentKit is a toolkit that gives AI agents access to crypto wallets and onchain functionality]
 - https://github.com/Ido-Levi/Hephaestus [Semi-Structured Agentic Framework. Workflows build themselves as agents discover what needs to be done, not what you predicted upfront]
 
+### Skills
+- https://github.com/jup-ag/agent-skills [Skills for AI coding agents to integrate with the Jupiter ecosystem]
+
 ### MCP Servers
 - https://github.com/PraneshASP/foundry-mcp-server [foundry mcp]
 
