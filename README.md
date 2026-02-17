@@ -379,6 +379,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/gmh5225/js-debugger-bypass-script [JS Debugger Bypass UserScript]
 - https://github.com/anza-xyz/jetstreamer [A Solana project geared towards realtime indexing, research, and backfilling with support for all epochs in the history of Solana mainnet]
 - https://github.com/MetaMask/eth-phishing-detect [Utility for detecting phishing domains targeting Web3 users]
+- https://github.com/Th0rgal/SafeLens [Offline transaction verifier for Safe multisig wallets with ERC-7730 clear signing]
 - https://github.com/ponder-sh/ponder [Ponder]
 - https://github.com/better-auth/better-auth [Better Auth]
 - https://github.com/libp2p [libp2p]
