@@ -467,6 +467,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 ## Security
 - https://github.com/OWASP/www-project-smart-contract-top-10 [OWASP Smart Contract Top 10]
 - https://github.com/paradigmxyz/evmbench [Benchmark and harness for finding and exploiting smart contract bugs]
+- https://github.com/hannespfeiffer/evmbench-certora-agent-harness [EVMBench + Certora iterative agent harness for spec generation and refinement]
 - https://github.com/alt-research/SolidityGuard [Solidity/EVM smart contract security auditor — 104 vulnerability patterns, 8 tools, 100% CTF + EVMBench (120/120)]
 - https://github.com/TradMod/awesome-audits-checklists [A curated list of smart contracts security audits checklists]
 - https://github.com/crytic/awesome-ethereum-security [awesome ethereum security]
