@@ -316,6 +316,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 
 ### SDK
 - https://github.com/Ankr-network/game-unreal-sdk [Mirage Unreal SDK]
+- https://github.com/jup-ag/jupiter-amm-interface [Jupiter AMM interface crate for implementing a Solana DEX AMM]
 - https://github.com/magicblock-labs/Solana.Unity-SDK [Unity-Solana SDK]
 - https://github.com/Virus-Axel/godot-solana-sdk [Godot Solana SDK]
 - https://github.com/hyperledger/web3j [Lightweight Java and Android library for integration with Ethereum clients]
