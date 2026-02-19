@@ -445,6 +445,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 
 ### Contract Source Code
 - https://github.com/EkuboProtocol/evm-contracts [Ekubo Protocol AMM smart contracts for EVM]
+- https://github.com/dcccrypto/percolator-stake [Percolator Insurance LP staking program on Solana — PDA-admin, Kani verification]
 - https://github.com/ethereum/solidity-examples [Solidity example code]
 - https://github.com/rdubois-crypto/FreshCryptoLib [Deprecated: cryptographic primitives for blockchain systems (Solidity/Cairo/C/Rust)]
 - https://github.com/OpenZeppelin/contracts-sui [OpenZeppelin contracts for the Sui Move ecosystem]
