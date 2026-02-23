@@ -347,6 +347,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/EIPTools/eip-tools [Explore all EIPs, ERCs, RIPs and CAIPs easily]
 - https://github.com/a16z/halmos [A symbolic testing tool for EVM]
 - https://github.com/0xRajkumar/revm [REVM]
+- https://github.com/Giulio2002/gevm [Blazingly fast EVM implementation written in Golang]
 - https://github.com/fukaoi/smart-token-tool [SPL Token/ NFT issue tool on solana]
 - https://github.com/cryptoloutre/solana-tools [A bunch of tools to help people in the Solana ecosystem]
 - https://github.com/costa-group/EthIR [A framework for high-level Analysis of Ethereum Bytecode]
