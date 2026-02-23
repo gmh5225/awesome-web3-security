@@ -17,7 +17,7 @@ Or you can send an issue for me.
 - https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
 ## Skills for AI Agents
-This repository provides skills that can be used with AI agents and coding assistants such as [Cursor](https://www.cursor.com/), [OpenClaw](https://docs.openclaw.ai/), [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Codex CLI](https://github.com/openai/codex), and other compatible tools. Install skills to get specialized knowledge about game security topics.
+This repository provides skills that can be used with AI agents and coding assistants such as [Cursor](https://www.cursor.com/), [OpenClaw](https://docs.openclaw.ai/), [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Codex CLI](https://github.com/openai/codex), and other compatible tools. Install skills to get specialized knowledge about Web3 security topics.
 
 **Installation:**
 ```bash
@@ -242,6 +242,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/Ido-Levi/Hephaestus [Semi-Structured Agentic Framework. Workflows build themselves as agents discover what needs to be done, not what you predicted upfront]
 
 ### Skills
+- https://github.com/coinbase/agentic-wallet-skills [Wallet skills for AI agents — npx skills add coinbase/agentic-wallet-skills]
 - https://github.com/Uniswap/uniswap-ai [AI tools for building on Uniswap — skills, plugins, and agents for any coding agent]
 - https://github.com/jup-ag/agent-skills [Skills for AI coding agents to integrate with the Jupiter ecosystem]
 
