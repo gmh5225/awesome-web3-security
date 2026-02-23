@@ -368,6 +368,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/puppeteer/puppeteer [Puppeteer]
 - https://github.com/otter-sec/bn-ebpf-solana [Binary Ninja plugin for Solana eBPF]
 - https://github.com/deanmlittle/ezbpf [A simple sBPF (Solana eBPF) disassembler]
+- https://github.com/cpkt9762/solana-sbpf-rlib [Solana sBPF rlib files for IDA Pro signature generation]
 - https://github.com/franck44/evm-dis [An EVM bytecode disassembler/assembler]
 - https://github.com/duaraghav8/Ethlint [Code quality & Security Linter for Solidity]
 - https://github.com/protofire/solhint [Code quality & Security Linter for Solidity]
