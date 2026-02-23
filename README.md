@@ -19,6 +19,8 @@ Or you can send an issue for me.
 ## Skills for AI Agents
 This repository provides skills that can be used with AI agents and coding assistants such as [Cursor](https://www.cursor.com/), [OpenClaw](https://docs.openclaw.ai/), [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Codex CLI](https://github.com/openai/codex), and other compatible tools. Install skills to get specialized knowledge about Web3 security topics.
 
+**[View on learn-skills.dev](https://learn-skills.dev/skills/gmh5225/awesome-web3-security)**
+
 **Installation:**
 ```bash
 npx skills add https://github.com/gmh5225/awesome-web3-security --skill <skill-name>
