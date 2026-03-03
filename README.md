@@ -250,6 +250,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 
 ### MCP Servers
 - https://github.com/PraneshASP/foundry-mcp-server [foundry mcp]
+- https://github.com/strangelove-ventures/web3-mcp [MCP server for multi-chain RPC: Solana, Ethereum, THORChain, XRP, TON, Cardano, UTXO chains]
 
 ## 3D / Games
 ### 3D Graphics
