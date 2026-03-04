@@ -537,6 +537,9 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 ### Stablecoin
 - https://github.com/lakshayvaishnav/stable-coin [a decentralized stablecoin protocol on the Solana blockchain]
 
+### Atomic Swaps
+- https://github.com/AthanorLabs/atomic-swap [ETH-XMR atomic swap implementation — swapd daemon and swapcli for p2p discovery, offers, and swap protocol]
+
 ### MEV
 - https://github.com/flashbots [for ethereum]
 - https://github.com/jito-foundation/jito-solana [for solana]
