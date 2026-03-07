@@ -176,6 +176,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/bekatom/awesome-ethereum [ETH Guide]
 - https://github.com/InfectedIsm/solana-quick-start-guide [Solana quick start guide]
 - https://github.com/GuiBibeau/solana-dev-skill [solana skill]
+- https://github.com/solana-foundation/awesome-solana-ai [AI tooling to help build on Solana — skills, agents, MCP, dev tools]
 - https://github.com/ipsilon/eof [evm object format]
 - https://github.com/Lilyjjo/mev_reading_list [List of resources to understand what 'mev' is]
 - https://en.hackndo.com/ethereum-virtual-machine [EVM]
