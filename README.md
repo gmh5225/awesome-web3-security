@@ -260,6 +260,8 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/tenequm/claude-plugins/tree/main/solana [Solana Claude plugin — Anchor/native Rust, security auditing, ZK compression via Light Protocol]
 - https://github.com/Lightprotocol/skills [Solana rent-free dev skills — Anchor/Pinocchio without rent-exemption, ZK programs]
 - https://github.com/quiknode-labs/blockchain-skills [Quicknode blockchain skills — Solana RPC, Jupiter Swap API, Yellowstone gRPC]
+- https://github.com/sanbir/solidity-auditor-skills [Solidity Auditor Skills — EVM security auditing: 210 attack vectors, 5–7 parallel agents, DeFi checklists, adversarial reasoning; fork of pashov/skills; Claude/Cursor]
+- https://github.com/sanbir/move-auditor-skills [Move Auditor Skills — Sui Move security auditing: 143 attack vectors, 5–7 parallel agents, DeFi checklists, adversarial reasoning; Claude/Cursor]
 
 ### MCP Servers
 - https://mcp.solana.com/ [Solana Developer MCP — official Solana and Anchor docs in Cursor/Windsurf/Claude CLI]
