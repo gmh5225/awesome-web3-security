@@ -253,6 +253,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/coinbase/agentic-wallet-skills [Wallet skills for AI agents — npx skills add coinbase/agentic-wallet-skills]
 - https://github.com/Uniswap/uniswap-ai [AI tools for building on Uniswap — skills, plugins, and agents for any coding agent]
 - https://github.com/jup-ag/agent-skills [Skills for AI coding agents to integrate with the Jupiter ecosystem]
+- https://github.com/OpenZeppelin/openzeppelin-skills [OpenZeppelin Skills — secure smart contract development with OZ libraries; Solidity, Cairo, Stylus, Stellar; setup/upgrade skills; npx skills add OpenZeppelin/openzeppelin-skills]
 - https://github.com/sendaifun/skills [Solana skills monorepo — DFlow, Drift, Kamino, Meteora, Orca, Raydium, Sanctum, Helius, Pyth, vulnhunter, code-recon, solana-kit, Pinocchio, Surfpool]
 - https://github.com/solana-foundation/solana-dev-skill [Official Solana development skill — Anchor/Pinocchio, LiteSVM/Mollusk, security best practices]
 - https://github.com/metaplex-foundation/skill [Official Metaplex skill — Core NFTs, Bubblegum, Candy Machine, Umi/Kit SDKs]
