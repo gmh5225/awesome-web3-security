@@ -264,6 +264,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/Lightprotocol/skills [Solana rent-free dev skills — Anchor/Pinocchio without rent-exemption, ZK programs]
 - https://github.com/quiknode-labs/blockchain-skills [Quicknode blockchain skills — Solana RPC, Jupiter Swap API, Yellowstone gRPC]
 - https://github.com/sanbir/solidity-auditor-skills [Solidity Auditor Skills — EVM security auditing: 210 attack vectors, 5–7 parallel agents, DeFi checklists, adversarial reasoning; fork of pashov/skills; Claude/Cursor]
+- https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills [Web3 bug bounty skills for Claude Code/Cursor — 10 bug classes from 2,749 Immunefi reports + 681 DeFiHackLabs repros; grep patterns, Foundry PoC templates, Immunefi triage/report format, methodology, case studies; optional MCP (Slither/Aderyn/SWC)]
 - https://github.com/sanbir/solana-auditor-skills [Solana Auditor Skills — Rust/SVM security auditing: 105 attack vectors, 4–6 parallel agents, DeFi checklists, adversarial reasoning; Anchor/Native/Pinocchio; Claude/Cursor]
 - https://github.com/sanbir/move-auditor-skills [Move Auditor Skills — Sui Move security auditing: 143 attack vectors, 5–7 parallel agents, DeFi checklists, adversarial reasoning; Claude/Cursor]
 - https://github.com/sanbir/ton-auditor-skills [TON Auditor Skills — TON/FunC/Tact security auditing: 120 attack vectors, 4–6 parallel agents, DeFi checklists, adversarial reasoning; Jetton/NFT TEP; Claude/Cursor]
