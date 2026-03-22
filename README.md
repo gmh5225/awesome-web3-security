@@ -332,6 +332,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/mattstam/solidity-template [Solidity Template]
 - https://github.com/gmh5225/foundry-template [Foundry Template]
 - https://github.com/Uniswap/foundry-template [Foundry Template]
+- https://github.com/UMAprotocol/dev-quickstart-oov3 [Foundry quickstart: example contracts and tests for UMA Optimistic Oracle V3 integration]
 - https://github.com/risc0/risc0-foundry-template [Foundry Template for integrating RISC Zero]
 - https://github.com/Contract-examples/Avalanche-contract-template [Avalanche Foundry Template]
 - https://github.com/auditless/cairo-template [Cairo template]
