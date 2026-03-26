@@ -340,6 +340,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/Contract-examples/cairo-example [Cairo template]
 - https://github.com/rzmahmood/StarkNet-NFT-Template [A Template for deploying NFT Projects on StarkNet]
 - https://github.com/mart1n-xyz/eip7702-viem-demo [EIP-7702]
+- https://github.com/5afe/safe-eip7702 [Safe (5afe) EIP-7702 POC — EOA delegates execution to Safe smart account; frontend, relay backend, local/testnet config]
 - https://github.com/Uniswap/ERC20-eth [ERC-7914]
 - https://github.com/mpeyfuss/vyper-template [Vyper + Foundry Template]
 - https://github.com/aadeexyz/erc-8004 [ERC-8004: Trustless Agents]
