@@ -352,6 +352,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/magicblock-labs/Solana.Unity-SDK [Unity-Solana SDK]
 - https://github.com/Virus-Axel/godot-solana-sdk [Godot Solana SDK]
 - https://github.com/hyperledger/web3j [Lightweight Java and Android library for integration with Ethereum clients]
+- https://github.com/lambdaclass/libssz [Fast, zkVM-friendly SSZ library for Ethereum consensus (no_std + alloc, merkle/hash-tree-root support)]
 - https://github.com/gmh5225/UUPSProxyFactorySDK [SDK of UUPSProxyFactory]
 - https://github.com/gmh5225/permit2-light-sdk [Light SDK of Uniswap-permit2]
 - https://github.com/gmh5225/Multicall3-SDK [SDK of Multicall3]
