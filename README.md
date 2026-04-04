@@ -370,6 +370,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/ethers-io/ethers.js [js ethereum]
 - https://github.com/mhw0/libethc [c ethereum]
 - https://github.com/sk1122/solana-sdk [js solana]
+- https://github.com/firedancer-io/firedancer [Solana validator client — Frankendancer (Firedancer networking + Agave execution) on mainnet; full Firedancer rewrite in development; performance-focused, sandbox-oriented architecture]
 - https://github.com/evmauth/evmauth-ts [A TypeScript SDK for interacting with EVMAuth contracts]
 - https://github.com/loocapro/reth-bsc [A BSC-compatible Reth client implementation]
   
