@@ -395,6 +395,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/OpenZeppelin/openzeppelin-relayer [OpenZeppelin Relayer]
 - https://github.com/mush-support/mush-audit [AI-powered smart contract security analysis platform]
 - https://github.com/HrikB/createXcrunch [find zero-leading, zero-containing, or pattern-matching addresses for the CreateX contract factory]
+- https://github.com/akshatmittal/saltshaker [WebGPU in-browser vanity salt miner for CREATE2, CreateX (CREATE2/CREATE3), and Safe — TS library, workbench, CPU re-verification of GPU hits]
 - https://github.com/NeurProjects/neur-app [The Intelligent Copilot for Solana]
 - https://github.com/Lumo-Labs-AI/lumokit [Lightweight Python AI toolkit for Solana — on-chain actions, Jupiter swaps, research]
 - https://aimpact.dev [AImpact — AI-powered IDE for Web3, generate and deploy Solana smart contracts]
