@@ -473,6 +473,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/Consensys/gnark [Fast zk-SNARK library]
 - https://github.com/zkcrypto/bellman [zk-SNARK library]
 - https://github.com/zksecurity/zkbugs [Reproduce ZKP vulnerabilities]
+- https://github.com/Verified-zkEVM/evm-asm [Verified macro assembler for zkEVM in Lean 4 (experimental research prototype)]
 - https://github.com/google/longfellow-zk [Implementation of the Google Zero-Knowledge library for Identity Protocols]
 - https://github.com/TheBojda/zktree-vote [Anonymous Voting with Zero-Knowledge Proofs]
 - https://github.com/zkMaps/zkMaps [Zero-Knowledge Location Proofs]
