@@ -461,6 +461,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 
 ### Development Frameworks
 - https://github.com/foundry-rs/foundry [Ethereum application development]
+- https://github.com/CosmWasm/cosmwasm [WebAssembly smart contracts for Cosmos SDK — cosmwasm-std, cosmwasm-vm, and related Rust crates]
 - https://github.com/coral-xyz/anchor [Solana Sealevel Framework]
 - https://github.com/joeymeere/caravel [C framework/toolkit for building Solana programs]
 - https://github.com/anza-xyz/platform-tools [Customized Rust/Clang toolchain for Solana Platform]
