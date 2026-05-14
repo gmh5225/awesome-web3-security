@@ -307,6 +307,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/ethereum/wallet-poc [The web3 wallet that makes crypto self-custody easy and secure via hybrid account abstraction. EIP-7702 ready]
 - https://github.com/coinbase/smart-wallet [ ERC-4337 compliant smart contract wallet from Coinbase]
 - https://github.com/samui-build/samui-wallet [Open Source wallet and toolbox for Solana builders]
+- https://github.com/solana-foundation/solana-keychain [Framework-agnostic Solana signing — Rust and TypeScript, pluggable backends (memory, KMS, custody)]
 - https://github.com/ApeWorX/Ruffsack [A rugged multisig wallet for everyday adventures]
 - https://github.com/0xcregis/anychain [Multi-chain Rust wallet SDK]
 - https://github.com/coming-chat/wallet-SDK [Multi-chain Wallet SDK]
