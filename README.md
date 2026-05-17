@@ -538,6 +538,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/banteg/legible-math [LegibleMath is a Solidity library providing readable arithmetic with compile-time constants for the letters you need to spell numbers]
 - https://github.com/preslavxyz/Web3-Security-Researcher-Roadmap [Web3 Security Researcher Roadmap]
 - https://github.com/tpiliposian/not-awesome-web3-security-roadmap [Web3 Security Researcher roadmap]
+- https://github.com/fystack/developer-security-handbook [Developer security playbook — threat models, checklists, and hardening recipes]
 - https://github.com/SunWeb3Sec [Let's make Web3 more secure]
 - https://defihacklabs.io/explorer/index.html [DeFiHackLabs Explorer]
 - https://github.com/SunWeb3Sec/DeFiHackLabs [Reproduce DeFi hacked incidents using Foundry]
