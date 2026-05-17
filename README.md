@@ -367,6 +367,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/nhuxhr/pumpfun-rs [Rust SDK for PumpFun Solana program]
 - https://github.com/rckprtr/pumpdotfun-sdk [Typescript SDK for PumpFun Solana program]
 - https://github.com/anza-xyz/solana-sdk [Rust SDK for the Solana blockchain, used by on-chain program developers and the Agave validator]
+- https://github.com/blueshift-gg/solana-hawk512 [no-std HAWK-512 post-quantum signature verification for SVM — verify-only, prepared-pubkey fast path, ~365k CU]
 - https://github.com/hoprnet/gnosis-hosted [self-host Gnosis Safe]
 - https://github.com/gagliardetto/solana-go [Go SDK library and RPC client for the Solana Blockchain]
 
