@@ -329,6 +329,9 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/rainbow-me/rainbowkit [web]
 - https://github.com/WalletConnect/walletconnect-monorepo [WalletConnect Monorepo]
 
+### Policy
+- https://github.com/fystack/programmable-policy-engine [Policy-as-code engine for Web3 wallets and treasuries — JSON policies, expr conditions, DENY-overrides-ALLOW]
+
 ## Development
 ### Smart Contract Templates
 - https://github.com/mattstam/solidity-template [Solidity Template]
