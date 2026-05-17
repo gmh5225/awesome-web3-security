@@ -315,6 +315,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/Railgun-Community/wallet [RAILGUN Wallet]
 
 ### MPC
+- https://github.com/fystack/mpcium [Open-source MPC wallet infrastructure — launch distributed crypto wallets with threshold signing in minutes]
 - https://github.com/coinbase/cb-mpc [Coinbase MPC Library]
 - https://github.com/bnb-chain/tss-lib [Threshold Signature Scheme, for ECDSA and EDDSA]
 - https://github.com/vultisig/mobile-tss-lib [Threshold Signature Scheme on mobile]
