@@ -332,6 +332,9 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 ### Policy
 - https://github.com/fystack/programmable-policy-engine [Policy-as-code engine for Web3 wallets and treasuries — JSON policies, expr conditions, DENY-overrides-ALLOW]
 
+### Risk
+- https://github.com/fystack/address-risk-dashboard [Crypto address risk dashboard — Ethereum address analysis, risk scores, flags, fund flows; Webacy API]
+
 ## Development
 ### Smart Contract Templates
 - https://github.com/mattstam/solidity-template [Solidity Template]
