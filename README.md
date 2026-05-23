@@ -448,6 +448,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 ### Compilers
 - https://github.com/ethereum/solidity [Solidity]
 - https://github.com/vyperlang/vyper [Pythonic Smart Contract Language for the EVM]
+- https://github.com/banteg/evm-compiler-bench [Head-to-head EVM compiler benchmark — Solidity vs Vyper gas, bytecode size, deploy cost, compile time; report at evm.banteg.xyz]
 - https://github.com/paradigmxyz/solar [Solidity compiler, written in Rust]
 - https://github.com/hyperledger-solang/solang [Solidity Compiler for Solana and Polkadot]
 - https://github.com/solana-developers/seahorse [Write Anchor-compatible Solana programs in Python]
