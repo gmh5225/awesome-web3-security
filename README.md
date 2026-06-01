@@ -170,6 +170,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/gmh5225/wallet-pentesting-article [Wallet Pentesting Guide]
 - https://github.com/ValkyriSecurity/awesome-wallet-security [Resources to learn Wallet Security]
 - https://github.com/rkdud007/awesome-zkvm [zkVM Guide]
+- https://github.com/dineshpinto/awesome-tee-blockchain [Curated resources for Trusted Execution Environments (TEEs) in blockchain]
 - https://github.com/eth-act/zkevm-book [Ethereum zkEVM book]
 - https://github.com/chaozh/awesome-blockchain-cn [CN Guide]
 - https://blog.wssh.trade/posts/uniswap-v3 [Uniswap V3 CN Guide]
