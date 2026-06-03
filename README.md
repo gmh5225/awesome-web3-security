@@ -328,6 +328,13 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/grempe/secrets.js [Shamir Secret Sharing (JavaScript)]
 - https://github.com/jesseduffield/horcrux [Shamir Secret Sharing Tool for Crypto Keys]
 
+### TEE
+- https://github.com/OP-TEE/optee_os [OP-TEE Trusted OS — secure-side TEE implementation; docs at optee.readthedocs.io]
+- https://github.com/Safeheron/ssgx [SSGX — Intel SGX native development framework for trusted execution in blockchain and custody workloads]
+- https://github.com/pkic/remote-key-attestation [Remote key attestation — prove keys are generated and non-exportable in HSM/TPM/secure enclave; published at pkic.org/remote-key-attestation]
+- https://github.com/svartkanin/linux-sgx-remoteattestation [Linux Intel SGX remote attestation example — enclave, Service Provider, and IAS verification over TLS]
+- https://github.com/GrapheneOS/AttestationServer [attestation.app remote attestation server — pairs with GrapheneOS Auditor for sample submission and email-alert remote attestation]
+
 ### Connection
 - https://github.com/reown-com/appkit [web]
 - https://github.com/rainbow-me/rainbowkit [web]
