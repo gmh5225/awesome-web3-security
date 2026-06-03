@@ -558,6 +558,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://defihacklabs.io/explorer/index.html [DeFiHackLabs Explorer]
 - https://github.com/SunWeb3Sec/DeFiHackLabs [Reproduce DeFi hacked incidents using Foundry]
 - https://github.com/theredguild/damn-vulnerable-defi [The smart contract security training ground for developers, security researchers and educators]
+- https://github.com/AlexAgents/mycelium-core [Desktop sandbox for on-chain voting on local Ethereum (Geth) — PyQt6 UI, VotingCore.sol, STRIDE threat model, SEC audit checks]
 - https://github.com/m14r41/PentestingEverything/tree/main/BlockChain%20Pentesting [Pentesting Checklist]
 - https://github.com/immunefi-team/Web3-Security-Library [web3 security and programming tutorials/tools]
 - https://github.com/coinspect/wallet-security-verification-standard [Wallet Security Verification Standard]
