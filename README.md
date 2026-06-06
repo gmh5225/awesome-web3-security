@@ -225,6 +225,37 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/gmh5225/awesome-crypto-wallet-address [Awesome crypto wallet address]
 - https://github.com/Ackee-Blockchain/awesome-wake-tests [Awesome Wake tests]
 
+## Public Chains
+### Ethereum (Execution)
+- https://github.com/paradigmxyz/reth [Rust Ethereum execution client]
+- https://github.com/erigontech/erigon [Efficient Ethereum execution client]
+- https://github.com/NethermindEth/nethermind [.NET Ethereum execution client]
+- https://github.com/hyperledger/besu [Java Ethereum execution client]
+
+### Ethereum (Consensus)
+- https://github.com/sigp/lighthouse [Rust Ethereum consensus client]
+- https://github.com/prysmaticlabs/prysm [Go Ethereum consensus client]
+- https://github.com/Consensys/teku [Java Ethereum consensus client]
+- https://github.com/grandinetech/grandine [Rust Ethereum consensus client]
+
+### Solana
+- https://github.com/anza-xyz/agave [Agave Solana validator client]
+
+### Bitcoin
+- https://github.com/bitcoin/bitcoin [Bitcoin Core reference implementation]
+
+### Other L1 / L2
+- https://github.com/bnb-chain/bsc [BNB Smart Chain node]
+- https://github.com/ava-labs/avalanchego [Avalanche node]
+- https://github.com/maticnetwork/bor [Polygon PoS Bor client]
+- https://github.com/cosmos/gaia [Cosmos Hub node]
+- https://github.com/paritytech/polkadot-sdk [Polkadot SDK and node]
+- https://github.com/aptos-labs/aptos-core [Aptos node]
+- https://github.com/MystenLabs/sui [Sui node]
+- https://github.com/near/nearcore [NEAR Protocol node]
+- https://github.com/ton-blockchain/ton [TON node]
+- https://github.com/tronprotocol/java-tron [TRON node]
+
 ## AI
 ### Agents
 - https://github.com/microsoft/ai-agents-for-beginners [AI Agents for beginners]
