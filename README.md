@@ -244,7 +244,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 ### Bitcoin
 - https://github.com/bitcoin/bitcoin [Bitcoin Core reference implementation]
 
-### Other L1 / L2
+### Other L1
 - https://github.com/bnb-chain/bsc [BNB Smart Chain node]
 - https://github.com/ava-labs/avalanchego [Avalanche node]
 - https://github.com/maticnetwork/bor [Polygon PoS Bor client]
@@ -255,6 +255,26 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/near/nearcore [NEAR Protocol node]
 - https://github.com/ton-blockchain/ton [TON node]
 - https://github.com/tronprotocol/java-tron [TRON node]
+- https://github.com/IntersectMBO/cardano-node [Cardano node]
+- https://github.com/sei-protocol/sei-chain [Sei node]
+- https://github.com/celestiaorg/celestia-node [Celestia DA node]
+- https://github.com/category-labs/monad-bft [Monad consensus client]
+- https://github.com/category-labs/monad [Monad execution client]
+- https://github.com/hyperliquid-dex/node [Hyperliquid L1 node]
+- https://github.com/berachain/beacon-kit [Berachain BeaconKit consensus client]
+- https://github.com/0xsoniclabs/sonic [Sonic node]
+- https://github.com/ProvableHQ/snarkOS [Aleo node (snarkOS)]
+- https://github.com/MinaProtocol/mina [Mina Protocol node]
+
+### Layer 2 / Rollups
+- https://github.com/ethereum-optimism/optimism [OP Stack / Optimism monorepo]
+- https://github.com/base/node [Base node (OP Stack L2)]
+- https://github.com/OffchainLabs/nitro [Arbitrum Nitro node]
+- https://github.com/matter-labs/zksync-era [zkSync Era node]
+- https://github.com/0xPolygonHermez/zkevm-node [Polygon zkEVM node]
+- https://github.com/eqlabs/pathfinder [Starknet full node (Rust)]
+- https://github.com/Consensys/linea-monorepo [Linea zkEVM stack and node]
+- https://github.com/scroll-tech/rollup-node [Scroll rollup node (Reth-based)]
 
 ## AI
 ### Agents
