@@ -265,6 +265,18 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/0xsoniclabs/sonic [Sonic node]
 - https://github.com/ProvableHQ/snarkOS [Aleo node (snarkOS)]
 - https://github.com/MinaProtocol/mina [Mina Protocol node]
+- https://github.com/cosmos/cosmos-sdk [Cosmos SDK for app-chains]
+- https://github.com/XRPLF/rippled [XRP Ledger (rippled)]
+- https://github.com/stellar/stellar-core [Stellar Core node]
+- https://github.com/algorand/go-algorand [Algorand node]
+- https://github.com/filecoin-project/lotus [Filecoin Lotus node]
+- https://github.com/dfinity/ic [Internet Computer (DFINITY) node]
+- https://github.com/hashgraph/hedera-services [Hedera node]
+- https://github.com/kaspanet/rusty-kaspa [Kaspa node (Rust)]
+- https://github.com/monero-project/monero [Monero node]
+- https://github.com/zcash/zcash [Zcash node]
+- https://github.com/litecoin-project/litecoin [Litecoin Core]
+- https://github.com/dogecoin/dogecoin [Dogecoin Core]
 
 ### Layer 2 / Rollups
 - https://github.com/ethereum-optimism/optimism [OP Stack / Optimism monorepo]
