@@ -424,6 +424,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/5afe/safe-eip7702 [Safe (5afe) EIP-7702 POC — EOA delegates execution to Safe smart account; frontend, relay backend, local/testnet config]
 - https://github.com/Uniswap/ERC20-eth [ERC-7914]
 - https://github.com/mpeyfuss/vyper-template [Vyper + Foundry Template]
+- https://github.com/rafael-abuawad/vyper-foundry-starter [Minimal Vyper + Snekmate + Foundry starter: compile and test Vyper contracts with Forge]
 - https://github.com/aadeexyz/erc-8004 [ERC-8004: Trustless Agents]
 - https://github.com/ChaosChain/trustless-agents-erc-ri [ERC-8004: Trustless Agents]
 
@@ -671,6 +672,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 
 ### MEV
 - https://github.com/flashbots [for ethereum]
+- https://github.com/flashbots/global-storage-smart-contract [Global Storage Smart Contract for Top-of-Block (ToB) building]
 - https://github.com/jito-foundation/jito-solana [for solana]
 - https://cow.fi/mev-blocker#rpc [MEV Blocker RPC]
 
