@@ -244,6 +244,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 ### Bitcoin
 - https://github.com/bitcoin/bitcoin [Bitcoin Core reference implementation]
 - https://github.com/libbitcoin/libbitcoin-server [Bitcoin full node and query server]
+- https://github.com/libbitcoin/libbitcoin-node [Bitcoin full node]
 
 ### Other L1
 - https://github.com/bnb-chain/bsc [BNB Smart Chain node]
@@ -445,6 +446,8 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/blueshift-gg/solana-hawk512 [no-std HAWK-512 post-quantum signature verification for SVM — verify-only, prepared-pubkey fast path, ~365k CU]
 - https://github.com/hoprnet/gnosis-hosted [self-host Gnosis Safe]
 - https://github.com/gagliardetto/solana-go [Go SDK library and RPC client for the Solana Blockchain]
+- https://github.com/libbitcoin/libbitcoin-system [Bitcoin cross-platform C++ development toolkit]
+- https://github.com/libbitcoin/libbitcoin-database [Bitcoin high performance blockchain database]
 
 ### Interaction
 - https://github.com/ethereum/go-ethereum [go ethereum]
@@ -500,6 +503,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/protofire/solhint [Code quality & Security Linter for Solidity]
 - https://github.com/byterocket/c4udit [Static analyzer for solidity contracts based on regexs]
 - https://github.com/gmh5225/EthGen [A simple command-line tool written in Go to generate Ethereum wallet addresses and private keys in bulk]
+- https://github.com/libbitcoin/libbitcoin-explorer [Bitcoin command line tool]
 - https://github.com/hyperliquid-dex/hyper-evm-sync [Proof of concept to execute all transactions from genesis for the entire HyperEVM]
 - https://github.com/sec3-service/IDLGuesser [IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs]
 - https://github.com/GianfrancoBazzani/evm-storage.codes [EVM Smart Contract Storage Viewer and Comparator]
