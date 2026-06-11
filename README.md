@@ -243,6 +243,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 
 ### Bitcoin
 - https://github.com/bitcoin/bitcoin [Bitcoin Core reference implementation]
+- https://github.com/libbitcoin/libbitcoin-server [Bitcoin full node and query server]
 
 ### Other L1
 - https://github.com/bnb-chain/bsc [BNB Smart Chain node]
