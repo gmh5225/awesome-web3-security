@@ -512,6 +512,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/FuzzingLabs/sierra-analyzer [Sierra decompiler and analyzer]
 - https://github.com/walnuthq/soldb [CLI debugger for Solidity and EVM]
 - https://github.com/argotorg/sourcify [Source code verification service for Ethereum smart contracts]
+- https://github.com/aragon/evm-mirror [Foundry-first CLI: verify Etherscan sources match audit/git snapshot, diff on-chain contracts, clone to Foundry projects]
 - https://github.com/gmh5225/js-debugger-bypass-script [JS Debugger Bypass UserScript]
 - https://github.com/anza-xyz/jetstreamer [A Solana project geared towards realtime indexing, research, and backfilling with support for all epochs in the history of Solana mainnet]
 - https://github.com/MetaMask/eth-phishing-detect [Utility for detecting phishing domains targeting Web3 users]
