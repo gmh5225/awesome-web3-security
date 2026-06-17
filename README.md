@@ -482,6 +482,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/Polymarket/agents [Trade autonomously on Polymarket using AI Agents]
 - https://github.com/daijro/camoufox [Anti-detect browser]
 - https://github.com/blockscout/blockscout [Blockchain explorer for Ethereum]
+- https://github.com/moneroexamples/onion-monero-blockchain-explorer [Onion Monero blockchain explorer]
 - https://github.com/OpenZeppelin/openzeppelin-monitor [OpenZeppelin Monitor]
 - https://github.com/OpenZeppelin/openzeppelin-relayer [OpenZeppelin Relayer]
 - https://github.com/mush-support/mush-audit [AI-powered smart contract security analysis platform]
