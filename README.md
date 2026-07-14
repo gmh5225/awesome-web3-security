@@ -656,6 +656,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/Decurity/abi-decompiler [Recover ABI of EVM smart contracts]
 - https://github.com/pcaversaccio/white-hat-frontrunning [White-hat Frontrunning Scripts]
 - https://github.com/pcaversaccio/reentrancy-attacks [Historical Collection of Reentrancy Attacks]
+- https://github.com/pcaversaccio/tornado-governance-lock [Irreversible Tornado Cash governance seal — upgradeTo + burn admin, unlockAll for locked TORN]
 - https://gitlab.com/learn-web31/Permit-Phishing [Permit Phishing Demo]
 - https://github.com/crytic/slither [Static Analyzer]
 - https://mythx.io [Static Analyzer]
