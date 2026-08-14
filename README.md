@@ -46,6 +46,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 ```
 
 ## Security Starter Pack
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches a Solana mint/program ID and alerts on Telegram when a new transaction appears, no API key needed.
 
 - **CTFs / Practice**
   - https://capturetheether.com/ [Capture the Ether]
