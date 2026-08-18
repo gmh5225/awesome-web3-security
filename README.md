@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gmh5225-awesome-web3-security-badge.png)](https://mseep.ai/app/gmh5225-awesome-web3-security)
+
 
 
 # `awesome-web3-security`[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
