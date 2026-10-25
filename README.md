@@ -532,6 +532,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/OpenZeppelin/ui-builder [OpenZeppelin UI Builder: chain-agnostic form builder for smart contract interaction]
 - https://github.com/exchange-core/exchange-core [Ultra-fast matching engine written in Java based on LMAX Disruptor]
 - https://github.com/aeron-io/aeron [Efficient reliable UDP unicast, UDP multicast, and IPC message transport]
+- https://github.com/localminimaa/tracehound [Paste a hacker's address or an exploit tx. Get the money trail, who funded it and the wallets tied to it, every link a transaction you can open]
 
 ### Compilers
 - https://github.com/ethereum/solidity [Solidity]
