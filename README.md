@@ -673,6 +673,8 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/d-xo/weird-erc20 [Weird ERC20]
 - https://github.com/slowmist/solana-smart-contract-security-best-practices [Solana security]
 - https://github.com/invisiblemonsters/token-launch-scan [Multi-chain token launch safety scanner]
+- https://github.com/ak10082247-max/rugshield-402 [Base & Solana DEX honeypot, transfer tax simulation, and pre-swap liquidity depth scanner (MCP + x402)]
+- https://github.com/ak10082247-max/canaryguard-402 [Prompt-injection firewall, secret redactor, and EVM/Solana wallet-drainer calldata auditor for AI agents (MCP + x402)]
 - https://github.com/Copenhagen0x/solana-security-standard [Solana security ruleset for Anthropic's Claude Code security-guidance plugin]
 - https://github.com/JoranHonig/awesome-web3-ai-security [web3 ai security]
 - https://github.com/Cyfrin/audit-report-templating [How to generate a PDF audit report]
