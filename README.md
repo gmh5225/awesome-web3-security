@@ -681,6 +681,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/Ackee-Blockchain/trident [Rust-based framework to Fuzz Solana programs, designed to help you ship secure code]
 - https://github.com/Ackee-Blockchain/wake [Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors]
 - https://github.com/numencyber/Move_Security_Course [Move Security]
+- https://team.sixstarlab.com/for-projects/teams/ [SixStar for Teams, read-only security alerts for crypto teams: contracts, Safes, wallets, domains, code and team accounts]
 
 ## DeFi Topics
 ### Stablecoin
