@@ -416,6 +416,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 ### Risk
 - https://github.com/fystack/address-risk-dashboard [Crypto address risk dashboard — Ethereum address analysis, risk scores, flags, fund flows; Webacy API]
 - https://github.com/Bemosha/safeagent [Chrome extension — detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms, typosquatted domains; local detection, MV3, MIT]
+- https://github.com/mevdao-org/eip-7702-delegation-checker-revoker [EIP-7702 delegation scanner (0xef0100 check) and sponsored Type-4 zero-address revocation CLI, multi-chain, MIT]
 
 ## Development
 ### Smart Contract Templates
