@@ -385,6 +385,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/Railgun-Community/wallet [RAILGUN Wallet]
 - https://github.com/artyom-chyornyj/privacy-wallet [Independent Railgun privacy web wallet — mandatory PPOI compliance, contract bytecode + merkle-root verification, user-gated outbound requests; testnet only]
 - https://github.com/triamazikamno/railoxide [Rust desktop RAILGUN wallet — zero telemetry, built-in Tor, indexed POI tree, Ledger/Trezor + WalletConnect; alpha]
+- https://github.com/bitbill/bittool-signer-ios [BitTool Signer for iOS — MIT-licensed offline phone signing with QR request/signature exchange; no independent security audit]
 
 ### MPC
 - https://github.com/fystack/mpcium [Open-source MPC wallet infrastructure — launch distributed crypto wallets with threshold signing in minutes]
