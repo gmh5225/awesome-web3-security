@@ -676,6 +676,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/slowmist/solana-smart-contract-security-best-practices [Solana security]
 - https://github.com/invisiblemonsters/token-launch-scan [Multi-chain token launch safety scanner]
 - https://github.com/Copenhagen0x/solana-security-standard [Solana security ruleset for Anthropic's Claude Code security-guidance plugin]
+- https://github.com/Tradelord223/operator-lab-diagnostics [Zero-dependency Solana Token-2022 TLV, PumpSwap i128 virtual_quote_reserves, and x402 replay/settlement security CLI]
 - https://github.com/JoranHonig/awesome-web3-ai-security [web3 ai security]
 - https://github.com/Cyfrin/audit-report-templating [How to generate a PDF audit report]
 - https://github.com/Frankcastleauditor/public-audits [smart contract security public audits]
